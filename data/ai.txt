@@ -1,0 +1,1 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines. It enables computers to perform tasks such as reasoning, learning, and problem-solving. Machine Learning (ML) is a subset of AI that focuses on enabling systems to learn from data. Deep Learning is a branch of ML that uses neural networks to model complex patterns.

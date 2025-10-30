@@ -1,0 +1,1 @@
+Redis is an in-memory data structure store used as a cache, message broker, and database. It supports data types like strings, lists, sets, and hashes. In Python, the redis-py library allows easy interaction with a Redis server. Caching repeated queries using Redis can significantly improve the performance of FastAPI applications.

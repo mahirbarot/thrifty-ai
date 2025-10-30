@@ -1,0 +1,1 @@
+Docker is a platform that allows developers to build, package, and run applications in lightweight containers. Containers ensure that software runs consistently across different environments. A Dockerfile is a script containing instructions to build an image, and Docker Compose helps manage multi-container applications.

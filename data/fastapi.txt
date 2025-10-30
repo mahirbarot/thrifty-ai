@@ -1,0 +1,1 @@
+FastAPI is a modern Python framework for building high-performance APIs. It is based on Python type hints and built on top of Starlette and Pydantic. FastAPI automatically generates OpenAPI documentation and performs data validation. It is widely used for AI and backend services due to its speed and simplicity.

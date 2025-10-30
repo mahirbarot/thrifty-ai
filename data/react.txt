@@ -1,0 +1,1 @@
+React is a JavaScript library for building user interfaces. It uses a component-based architecture, allowing developers to create reusable UI elements. React uses a virtual DOM to efficiently update the user interface. Hooks such as useState and useEffect help manage state and side effects in functional components.

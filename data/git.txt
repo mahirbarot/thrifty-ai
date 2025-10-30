@@ -1,0 +1,1 @@
+Git is a distributed version control system used for tracking code changes. Common commands include git init to initialize a repository, git add to stage changes, and git commit to save them. The git push command uploads local commits to a remote repository, while git pull fetches and merges remote updates.
